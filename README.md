@@ -1,2 +1,3 @@
-# api-doc
-Documentation for IST API:s
+# IST Api Documentation
+
+[To the documentation](https://github.com/ist-international/api-doc/wiki9)
