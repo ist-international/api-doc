@@ -1,3 +1,3 @@
 # IST Api Documentation
 
-[To the documentation](https://github.com/ist-international/api-doc/wiki9)
+[To the documentation](https://github.com/ist-international/api-doc/wiki)
